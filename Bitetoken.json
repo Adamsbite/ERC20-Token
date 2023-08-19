@@ -17,7 +17,7 @@
 			"autoDeployLib": true
 		},
 		"kovan:42": {
-			"linkReferences": {},
+			"linkReferences": {},,
 			"autoDeployLib": true
 		},
 		"goerli:5": {
