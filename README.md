@@ -1,5 +1,4 @@
-# ERC20-Token n
-
+# ERC20-Token 
 
 2. Compile the contract using a Solidity compiler of your choice.
 
