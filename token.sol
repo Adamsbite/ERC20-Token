@@ -23,7 +23,7 @@ contract CHTIX {
         return _name;
     }
 
-    function symbol() public view returns (string memory) { // 12
+    function symbol() public view returns (string memory) {  // 12
         return _symbol;
     }
 
