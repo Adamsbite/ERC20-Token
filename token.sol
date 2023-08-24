@@ -31,6 +31,7 @@ contract CHTIX {
         return DECIMAL;
     }
 
+
     function totalSupply() public view returns (uint256) { // 14
         return _totalSupply;
     }
