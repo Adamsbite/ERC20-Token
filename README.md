@@ -1,4 +1,4 @@
-# ERC20-Token n 
+# ERC20-Token n  
 2. Compile the contract using a Solidity compiler of your choice.
 
 3. Deploy the contract to the Ethereum network of your choice.
