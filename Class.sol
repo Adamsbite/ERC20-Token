@@ -1,7 +1,7 @@
  // SPDX-License-Identifier: UNLICENSED
 pragma solidity 0.8.19;
 
-
+ 
 // A token that can be transfered from one person to the other
 // it should have a name
 // it should maximum supply
