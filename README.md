@@ -3,7 +3,7 @@
 
 3. Deploy the contract to the Ethereum network of your choice.
 
-4. Interact with the contract using the provided functions:
+4. Interact with the contract using the   provided functions:
 
 - `name()`: Returns the name of the token.
 - `symbol()`: Returns the symbol of the token.
