@@ -2,10 +2,6 @@ fvferve
 
 
 
-
-
-
-
   }
 
   function burn(uint value) external{
