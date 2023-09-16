@@ -5,7 +5,7 @@
 
 4. Interact with the contract using the   provided functions:
 
-- `name()`: Returns the name of the token.
+- `name()`: Returns the name of the token. 
 - `symbol()`: Returns the symbol of the token.
 - `decimals()`: Returns the number of decimal places used by the token.
 - `totalSupply()`: Returns the total supply of the token.
